@@ -90,6 +90,7 @@ function agregarMetodo() {
     return this.nombre + this.edad, ",";
   }
 }
+
   
 
 // No modificar nada debajo de esta línea
